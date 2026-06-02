@@ -1,0 +1,39 @@
+{
+    "student": [
+        {
+            "name": "Alice",
+            "id": "S001",
+            "marks": 95,
+            "BookName": "C++ Programming",
+            "BookAuthorName": "Bjarne Stroustrup"
+        },
+        {
+            "name": "Bob",
+            "id": "S002",
+            "marks": 87,
+            "BookName": "Data Structures",
+            "BookAuthorName": "Robert Lafore"
+        },
+        {
+            "name": "Charlie",
+            "id": "S003",
+            "marks": 92,
+            "BookName": "None",
+            "BookAuthorName": "None"
+        },
+        {
+            "name": "Diana",
+            "id": "S004",
+            "marks": 88,
+            "BookName": "None",
+            "BookAuthorName": "None"
+        },
+        {
+            "name": "Eve",
+            "id": "S005",
+            "marks": 91,
+            "BookName": "None",
+            "BookAuthorName": "None"
+        }
+    ]
+}

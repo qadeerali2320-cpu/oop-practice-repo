@@ -1,0 +1,61 @@
+{
+    "student": [
+        {
+            "name": "Ali",
+            "id": "S001",
+            "marks": 95,
+            "BooksData": [
+                {
+                    "BookName": "C++ Programming",
+                    "BookAuthor": "Bjarne Stroustrup",
+                    "dataOfPublish": "1985",
+                    "IsBorrowed": true
+                }
+            ]
+        },
+        {
+            "name": "Bob",
+            "id": "S002",
+            "marks": 87,
+            "BooksData": [
+                {
+                    "BookName": "Data Structures",
+                    "BookAuthor": "Robert Lafore",
+                    "dataOfPublish": "1999",
+                    "IsBorrowed": true
+                }
+            ]
+        },
+        {
+            "name": "Charlie",
+            "id": "S003",
+            "marks": 92,
+            "BooksData": [
+                {
+                    "BookName": "Design Patterns",
+                    "BookAuthor": "Erich Gamma",
+                    "dataOfPublish": "1994",
+                    "IsBorrowed": true
+                }
+            ]
+        },
+        {
+            "name": "Diana",
+            "id": "S004",
+            "marks": 88
+        },
+        {
+            "name": "Eve",
+            "id": "S005",
+            "marks": 91,
+            "BooksData": [
+                {
+                    "BookName": "Clean Code",
+                    "BookAuthor": "Robert Martin",
+                    "dataOfPublish": "2008",
+                    "IsBorrowed": true
+                }
+            ]
+        }
+    ]
+}
